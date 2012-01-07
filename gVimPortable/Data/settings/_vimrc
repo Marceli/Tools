@@ -16,6 +16,7 @@ set hlsearch    "hilight searches by default
 
 set nowrap      "dont wrap lines
 set linebreak   "wrap lines at convenient points
+set gfn=Consolas:h11:cANSI
 
 "statusline setup
 set statusline=%f       "tail of the filename

@@ -8,9 +8,12 @@
 # hlsearch on (H) or off (h):
 ~h
 # Last Search Pattern:
-~MSle0~/syntasttic
+~MSle0~/font
 
 # Command Line History (newest to oldest):
+:tree
+:nerdtree
+:q
 :w
 :b#
 :b \Dev\olo.txt
@@ -22,6 +25,9 @@
 :e c/dev/
 
 # Search String History (newest to oldest):
+?/font
+?/set 
+?/gfn
 ?/syntasttic
 ?/syntasti
 ?/.vim
@@ -37,35 +43,72 @@
 "1	LINE	0
 	echo 'dksafjjjjjjjjjjjjjkskkkkkkkkkkkkkkkkkkkk'
 ""-	CHAR	0
-	.vim
+	nsi
 
 # File marks:
-'0  1  0  ~\vimfiles\plugin\syntastic.vim
-'1  1  0  ~\vimfiles\plugin\makegreen.vim
-'2  89  11  ~\vimfiles\pluginold\syntastic.vim
-'3  247  27  ~\_vimrc
-'4  262  0  ~\_vimrc
-'5  250  8  ~\_vimrc
-'6  5  18  ~\_vimrc
-'7  1  0  C:\Users\maya\Downloads\obsidian.vim
-'8  32  0  ~\README.rdoc
-'9  1  0  C:\Dev\bolo.txt
+'0  19  19  ~\_vimrc
+'1  55  23  ~\_vimrc
+'2  22  0  C:\Users\maya\Downloads\css Zen Garden  The Beauty in CSS Design.htm
+'3  1  0  C:\Users\maya\Downloads\css Zen Garden  The Beauty in CSS Design.htm
+'4  1  0  C:\Users\maya\Downloads\note.xml
+'5  1  0  ~\vimfiles\plugin\syntastic.vim
+'6  1  0  ~\vimfiles\plugin\makegreen.vim
+'7  89  11  ~\vimfiles\pluginold\syntastic.vim
+'8  248  27  ~\_vimrc
+'9  263  0  ~\_vimrc
 
 # Jumplist (newest first):
+-'  19  19  ~\_vimrc
+-'  55  23  ~\_vimrc
+-'  22  0  C:\Users\maya\Downloads\css Zen Garden  The Beauty in CSS Design.htm
+-'  136  2  C:\Users\maya\Downloads\css Zen Garden  The Beauty in CSS Design.htm
+-'  1  0  C:\Users\maya\Downloads\css Zen Garden  The Beauty in CSS Design.htm
+-'  36  0  ~\_vimrc
+-'  22  0  ~\_vimrc
+-'  18  0  ~\_vimrc
+-'  17  0  ~\_vimrc
+-'  15  0  ~\_vimrc
+-'  14  0  ~\_vimrc
+-'  12  0  ~\_vimrc
+-'  11  0  ~\_vimrc
+-'  9  0  ~\_vimrc
+-'  6  0  ~\_vimrc
+-'  3  0  ~\_vimrc
+-'  224  0  ~\_vimrc
+-'  221  0  ~\_vimrc
+-'  218  0  ~\_vimrc
+-'  217  0  ~\_vimrc
+-'  207  0  ~\_vimrc
+-'  206  0  ~\_vimrc
+-'  205  0  ~\_vimrc
+-'  202  0  ~\_vimrc
+-'  199  0  ~\_vimrc
+-'  198  0  ~\_vimrc
+-'  197  0  ~\_vimrc
+-'  195  0  ~\_vimrc
+-'  194  0  ~\_vimrc
+-'  193  0  ~\_vimrc
+-'  190  0  ~\_vimrc
+-'  189  0  ~\_vimrc
+-'  188  0  ~\_vimrc
+-'  187  0  ~\_vimrc
+-'  109  26  ~\_vimrc
+-'  98  8  ~\_vimrc
+-'  1  0  C:\Users\maya\Downloads\note.xml
 -'  1  0  ~\vimfiles\plugin\syntastic.vim
 -'  1  0  ~\vimfiles\plugin\makegreen.vim
 -'  89  11  ~\vimfiles\pluginold\syntastic.vim
 -'  1  0  ~\vimfiles\pluginold\syntastic.vim
--'  247  27  ~\_vimrc
--'  262  0  ~\_vimrc
--'  255  44  ~\_vimrc
--'  250  8  ~\_vimrc
+-'  248  27  ~\_vimrc
+-'  263  0  ~\_vimrc
+-'  256  44  ~\_vimrc
+-'  251  8  ~\_vimrc
+-'  262  32  ~\_vimrc
 -'  261  32  ~\_vimrc
--'  260  32  ~\_vimrc
--'  257  36  ~\_vimrc
--'  251  7  ~\_vimrc
+-'  258  36  ~\_vimrc
+-'  252  7  ~\_vimrc
 -'  1  0  ~\_vimrc
--'  123  4  ~\_vimrc
+-'  124  4  ~\_vimrc
 -'  5  18  ~\_vimrc
 -'  1  0  C:\Users\maya\Downloads\obsidian.vim
 -'  32  0  ~\README.rdoc
@@ -85,73 +128,34 @@
 -'  2  3  C:\Dev\olo.txt
 -'  1  0  C:\Windows\System32\c\dev\
 -'  32  0  ~\README.rdoc
--'  1  0  ~\README.rdoc
--'  1  0  C:\Dev\bolo.txt
--'  2  3  C:\Dev\olo.txt
--'  1  0  C:\Windows\System32\c\dev\
--'  1  0  C:\Dev\bolo.txt
--'  2  3  C:\Dev\olo.txt
--'  1  0  C:\Windows\System32\c\dev\
--'  32  0  ~\README.rdoc
--'  1  0  ~\README.rdoc
--'  1  0  C:\Dev\bolo.txt
--'  2  3  C:\Dev\olo.txt
--'  1  0  C:\Windows\System32\c\dev\
--'  1  0  C:\Dev\bolo.txt
--'  2  3  C:\Dev\olo.txt
--'  1  0  C:\Windows\System32\c\dev\
--'  32  0  ~\README.rdoc
--'  1  0  ~\README.rdoc
--'  1  0  C:\Dev\bolo.txt
--'  2  3  C:\Dev\olo.txt
--'  1  0  C:\Windows\System32\c\dev\
--'  1  0  C:\Dev\bolo.txt
--'  2  3  C:\Dev\olo.txt
--'  1  0  C:\Windows\System32\c\dev\
--'  32  0  ~\README.rdoc
--'  1  0  ~\README.rdoc
--'  1  0  C:\Dev\bolo.txt
--'  2  3  C:\Dev\olo.txt
--'  1  0  C:\Windows\System32\c\dev\
--'  1  0  C:\Dev\bolo.txt
--'  2  3  C:\Dev\olo.txt
--'  1  0  C:\Windows\System32\c\dev\
--'  32  0  ~\README.rdoc
--'  1  0  ~\README.rdoc
--'  1  0  C:\Dev\bolo.txt
--'  2  3  C:\Dev\olo.txt
--'  1  0  C:\Windows\System32\c\dev\
--'  1  0  C:\Dev\bolo.txt
--'  2  3  C:\Dev\olo.txt
--'  1  0  C:\Windows\System32\c\dev\
--'  32  0  ~\README.rdoc
--'  1  0  ~\README.rdoc
--'  1  0  C:\Dev\bolo.txt
--'  2  3  C:\Dev\olo.txt
--'  1  0  C:\Windows\System32\c\dev\
--'  1  0  C:\Dev\bolo.txt
--'  2  3  C:\Dev\olo.txt
--'  1  0  C:\Windows\System32\c\dev\
--'  32  0  ~\README.rdoc
--'  1  0  ~\README.rdoc
--'  1  0  C:\Dev\bolo.txt
--'  2  3  C:\Dev\olo.txt
--'  1  0  C:\Windows\System32\c\dev\
--'  1  0  C:\Dev\bolo.txt
--'  2  3  C:\Dev\olo.txt
--'  1  0  C:\Windows\System32\c\dev\
--'  32  0  ~\README.rdoc
--'  1  0  ~\README.rdoc
--'  1  0  C:\Dev\bolo.txt
--'  2  3  C:\Dev\olo.txt
--'  1  0  C:\Windows\System32\c\dev\
--'  1  0  C:\Dev\bolo.txt
--'  2  3  C:\Dev\olo.txt
--'  1  0  C:\Windows\System32\c\dev\
--'  32  0  ~\README.rdoc
--'  1  0  ~\README.rdoc
+-'  22  0  C:\Users\maya\Downloads\css Zen Garden  The Beauty in CSS Design.htm
+-'  136  2  C:\Users\maya\Downloads\css Zen Garden  The Beauty in CSS Design.htm
+-'  1  0  C:\Users\maya\Downloads\css Zen Garden  The Beauty in CSS Design.htm
+-'  22  0  C:\Users\maya\Downloads\css Zen Garden  The Beauty in CSS Design.htm
+-'  136  2  C:\Users\maya\Downloads\css Zen Garden  The Beauty in CSS Design.htm
+-'  1  0  C:\Users\maya\Downloads\css Zen Garden  The Beauty in CSS Design.htm
 
 # History of marks within files (newest to oldest):
+
+> ~\_vimrc
+	"	19	19
+	^	19	26
+	.	19	19
+	+	6	0
+	+	5	18
+	+	251	16
+	+	257	36
+	+	258	36
+	+	261	32
+	+	262	32
+	+	263	32
+	+	19	19
+
+> C:\Users\maya\Downloads\css Zen Garden  The Beauty in CSS Design.htm
+	"	22	0
+
+> C:\Users\maya\Downloads\note.xml
+	"	1	0
 
 > ~\vimfiles\plugin\syntastic.vim
 	"	1	0
@@ -161,19 +165,6 @@
 
 > ~\vimfiles\pluginold\syntastic.vim
 	"	89	11
-
-> ~\_vimrc
-	"	250	8
-	^	262	33
-	.	262	32
-	+	6	0
-	+	5	18
-	+	250	16
-	+	256	36
-	+	257	36
-	+	260	32
-	+	261	32
-	+	262	32
 
 > ~\vimfiles\readme.txt
 	"	1	0
