@@ -11,6 +11,7 @@
 ~MSle0~/font
 
 # Command Line History (newest to oldest):
+:w!
 :tree
 :nerdtree
 :q
@@ -20,7 +21,6 @@
 :b \Dev\bolo.txt
 :ls
 :e \dev\bolo.txt
-:w!
 :e \c\dev\olo.txt
 :e c/dev/
 
@@ -40,24 +40,44 @@
 # Input Line History (newest to oldest):
 
 # Registers:
-"1	LINE	0
+""1	LINE	0
+	*.ctl
+	*.vsp
+	_ReSharper.MyStore
+	*.user
+	*.swp
+	*.suo
+	*/*/bin
+	*/*/obj
+	*/*/Bin
+	logs
+	
+	
+	
+	
+"2	LINE	0
 	echo 'dksafjjjjjjjjjjjjjkskkkkkkkkkkkkkkkkkkkk'
-""-	CHAR	0
+"-	CHAR	0
 	nsi
 
 # File marks:
-'0  1  0  C:\Dev\Tools\gVim\vim.ini
-'1  1  0  C:\Dev\Tools\gVim\gVimPortable.ini
-'2  19  19  ~\_vimrc
-'3  55  23  ~\_vimrc
-'4  22  0  C:\Users\maya\Downloads\css Zen Garden  The Beauty in CSS Design.htm
-'5  1  0  C:\Users\maya\Downloads\css Zen Garden  The Beauty in CSS Design.htm
-'6  1  0  C:\Users\maya\Downloads\note.xml
-'7  1  0  ~\vimfiles\plugin\syntastic.vim
-'8  1  0  ~\vimfiles\plugin\makegreen.vim
-'9  89  11  ~\vimfiles\pluginold\syntastic.vim
+'0  1  13  C:\Dev\Tools\.gitignore
+'1  1  0  C:\Users\Marcel\AppData\Local\Temp\x2TMP_00000002_embrace.nfo
+'2  1  0  C:\Users\Marcel\AppData\Local\Temp\x2TMP_00000001_file_id.diz
+'3  2  35  C:\Dev\Tools\.git\Resharper.txt
+'4  1  0  C:\Dev\Tools\gVim\vim.ini
+'5  1  0  C:\Dev\Tools\gVim\gVimPortable.ini
+'6  19  19  ~\_vimrc
+'7  55  23  ~\_vimrc
+'8  22  0  C:\Users\maya\Downloads\css Zen Garden  The Beauty in CSS Design.htm
+'9  1  0  C:\Users\maya\Downloads\css Zen Garden  The Beauty in CSS Design.htm
 
 # Jumplist (newest first):
+-'  1  13  C:\Dev\Tools\.gitignore
+-'  1  0  C:\Users\Marcel\AppData\Local\Temp\x2TMP_00000002_embrace.nfo
+-'  1  0  C:\Users\Marcel\AppData\Local\Temp\x2TMP_00000001_file_id.diz
+-'  2  35  C:\Dev\Tools\.git\Resharper.txt
+-'  1  11  C:\Dev\Tools\.git\Resharper.txt
 -'  1  0  C:\Dev\Tools\gVim\vim.ini
 -'  1  0  C:\Dev\Tools\gVim\gVimPortable.ini
 -'  19  19  ~\_vimrc
@@ -151,13 +171,28 @@
 -'  11  0  ~\_vimrc
 -'  9  0  ~\_vimrc
 -'  6  0  ~\_vimrc
--'  3  0  ~\_vimrc
--'  224  0  ~\_vimrc
--'  221  0  ~\_vimrc
--'  218  0  ~\_vimrc
--'  217  0  ~\_vimrc
 
 # History of marks within files (newest to oldest):
+
+> C:\Dev\Tools\.gitignore
+	"	1	13
+	^	1	14
+	.	1	13
+	+	1	13
+
+> C:\Users\Marcel\AppData\Local\Temp\x2TMP_00000002_embrace.nfo
+	"	1	0
+	^	110	27
+
+> C:\Users\Marcel\AppData\Local\Temp\x2TMP_00000001_file_id.diz
+	"	1	0
+
+> C:\Dev\Tools\.git\Resharper.txt
+	"	2	35
+	^	2	4
+	.	2	4
+	+	1	0
+	+	2	4
 
 > C:\Dev\Tools\gVim\vim.ini
 	"	1	0
