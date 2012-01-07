@@ -61,18 +61,21 @@
 	nsi
 
 # File marks:
-'0  1  13  C:\Dev\Tools\.gitignore
-'1  1  0  C:\Users\Marcel\AppData\Local\Temp\x2TMP_00000002_embrace.nfo
-'2  1  0  C:\Users\Marcel\AppData\Local\Temp\x2TMP_00000001_file_id.diz
-'3  2  35  C:\Dev\Tools\.git\Resharper.txt
-'4  1  0  C:\Dev\Tools\gVim\vim.ini
-'5  1  0  C:\Dev\Tools\gVim\gVimPortable.ini
-'6  19  19  ~\_vimrc
-'7  55  23  ~\_vimrc
-'8  22  0  C:\Users\maya\Downloads\css Zen Garden  The Beauty in CSS Design.htm
-'9  1  0  C:\Users\maya\Downloads\css Zen Garden  The Beauty in CSS Design.htm
+'0  1  0  ~\vimfiles\plugin\syntastic.vim
+'1  1  0  ~\vimfiles\pluginold\rails.vim
+'2  1  0  ~\vimfiles\pluginold\taglist.vim
+'3  1  13  C:\Dev\Tools\.gitignore
+'4  1  0  C:\Users\Marcel\AppData\Local\Temp\x2TMP_00000002_embrace.nfo
+'5  1  0  C:\Users\Marcel\AppData\Local\Temp\x2TMP_00000001_file_id.diz
+'6  2  35  C:\Dev\Tools\.git\Resharper.txt
+'7  1  0  C:\Dev\Tools\gVim\vim.ini
+'8  1  0  C:\Dev\Tools\gVim\gVimPortable.ini
+'9  19  19  ~\_vimrc
 
 # Jumplist (newest first):
+-'  1  0  ~\vimfiles\plugin\syntastic.vim
+-'  1  0  ~\vimfiles\pluginold\rails.vim
+-'  1  0  ~\vimfiles\pluginold\taglist.vim
 -'  1  13  C:\Dev\Tools\.gitignore
 -'  1  0  C:\Users\Marcel\AppData\Local\Temp\x2TMP_00000002_embrace.nfo
 -'  1  0  C:\Users\Marcel\AppData\Local\Temp\x2TMP_00000001_file_id.diz
@@ -117,7 +120,6 @@
 -'  109  26  ~\_vimrc
 -'  98  8  ~\_vimrc
 -'  1  0  C:\Users\maya\Downloads\note.xml
--'  1  0  ~\vimfiles\plugin\syntastic.vim
 -'  1  0  ~\vimfiles\plugin\makegreen.vim
 -'  89  11  ~\vimfiles\pluginold\syntastic.vim
 -'  1  0  ~\vimfiles\pluginold\syntastic.vim
@@ -168,11 +170,17 @@
 -'  15  0  ~\_vimrc
 -'  14  0  ~\_vimrc
 -'  12  0  ~\_vimrc
--'  11  0  ~\_vimrc
--'  9  0  ~\_vimrc
--'  6  0  ~\_vimrc
 
 # History of marks within files (newest to oldest):
+
+> ~\vimfiles\plugin\syntastic.vim
+	"	1	0
+
+> ~\vimfiles\pluginold\rails.vim
+	"	1	0
+
+> ~\vimfiles\pluginold\taglist.vim
+	"	1	0
 
 > C:\Dev\Tools\.gitignore
 	"	1	13
@@ -218,9 +226,6 @@
 	"	22	0
 
 > C:\Users\maya\Downloads\note.xml
-	"	1	0
-
-> ~\vimfiles\plugin\syntastic.vim
 	"	1	0
 
 > ~\vimfiles\plugin\makegreen.vim
