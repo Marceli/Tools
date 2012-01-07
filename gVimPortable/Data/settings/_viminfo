@@ -7,9 +7,25 @@
 
 # hlsearch on (H) or off (h):
 ~h
+# Last Search Pattern:
+~MSle0~/syntasttic
+
 # Command Line History (newest to oldest):
+:w
+:b#
+:b \Dev\olo.txt
+:b \Dev\bolo.txt
+:ls
+:e \dev\bolo.txt
+:w!
+:e \c\dev\olo.txt
+:e c/dev/
 
 # Search String History (newest to oldest):
+?/syntasttic
+?/syntasti
+?/.vim
+?/syntasticsta
 
 # Expression History (newest to oldest):
 
@@ -18,35 +34,164 @@
 # Input Line History (newest to oldest):
 
 # Registers:
-""1	LINE	0
+"1	LINE	0
 	echo 'dksafjjjjjjjjjjjjjkskkkkkkkkkkkkkkkkkkkk'
+""-	CHAR	0
+	.vim
 
 # File marks:
-'0  5  18  ~\_vimrc
-'1  1  0  ~\_vimrc
+'0  1  0  ~\vimfiles\plugin\syntastic.vim
+'1  1  0  ~\vimfiles\plugin\makegreen.vim
+'2  89  11  ~\vimfiles\pluginold\syntastic.vim
+'3  247  27  ~\_vimrc
+'4  262  0  ~\_vimrc
+'5  250  8  ~\_vimrc
+'6  5  18  ~\_vimrc
+'7  1  0  C:\Users\maya\Downloads\obsidian.vim
+'8  32  0  ~\README.rdoc
+'9  1  0  C:\Dev\bolo.txt
 
 # Jumplist (newest first):
--'  5  18  ~\_vimrc
+-'  1  0  ~\vimfiles\plugin\syntastic.vim
+-'  1  0  ~\vimfiles\plugin\makegreen.vim
+-'  89  11  ~\vimfiles\pluginold\syntastic.vim
+-'  1  0  ~\vimfiles\pluginold\syntastic.vim
+-'  247  27  ~\_vimrc
+-'  262  0  ~\_vimrc
+-'  255  44  ~\_vimrc
+-'  250  8  ~\_vimrc
+-'  261  32  ~\_vimrc
+-'  260  32  ~\_vimrc
+-'  257  36  ~\_vimrc
+-'  251  7  ~\_vimrc
 -'  1  0  ~\_vimrc
+-'  123  4  ~\_vimrc
 -'  5  18  ~\_vimrc
--'  1  0  ~\_vimrc
--'  5  18  ~\_vimrc
--'  1  0  ~\_vimrc
--'  5  18  ~\_vimrc
--'  1  0  ~\_vimrc
--'  5  18  ~\_vimrc
--'  1  0  ~\_vimrc
--'  5  18  ~\_vimrc
--'  1  0  ~\_vimrc
--'  5  18  ~\_vimrc
--'  1  0  ~\_vimrc
--'  5  18  ~\_vimrc
--'  1  0  ~\_vimrc
+-'  1  0  C:\Users\maya\Downloads\obsidian.vim
+-'  32  0  ~\README.rdoc
+-'  1  0  ~\README.rdoc
+-'  1  0  C:\Dev\bolo.txt
+-'  2  3  C:\Dev\olo.txt
+-'  1  0  C:\Windows\System32\c\dev\
+-'  1  0  C:\Dev\bolo.txt
+-'  2  3  C:\Dev\olo.txt
+-'  1  0  C:\Windows\System32\c\dev\
+-'  32  0  ~\README.rdoc
+-'  1  0  ~\README.rdoc
+-'  1  0  C:\Dev\bolo.txt
+-'  2  3  C:\Dev\olo.txt
+-'  1  0  C:\Windows\System32\c\dev\
+-'  1  0  C:\Dev\bolo.txt
+-'  2  3  C:\Dev\olo.txt
+-'  1  0  C:\Windows\System32\c\dev\
+-'  32  0  ~\README.rdoc
+-'  1  0  ~\README.rdoc
+-'  1  0  C:\Dev\bolo.txt
+-'  2  3  C:\Dev\olo.txt
+-'  1  0  C:\Windows\System32\c\dev\
+-'  1  0  C:\Dev\bolo.txt
+-'  2  3  C:\Dev\olo.txt
+-'  1  0  C:\Windows\System32\c\dev\
+-'  32  0  ~\README.rdoc
+-'  1  0  ~\README.rdoc
+-'  1  0  C:\Dev\bolo.txt
+-'  2  3  C:\Dev\olo.txt
+-'  1  0  C:\Windows\System32\c\dev\
+-'  1  0  C:\Dev\bolo.txt
+-'  2  3  C:\Dev\olo.txt
+-'  1  0  C:\Windows\System32\c\dev\
+-'  32  0  ~\README.rdoc
+-'  1  0  ~\README.rdoc
+-'  1  0  C:\Dev\bolo.txt
+-'  2  3  C:\Dev\olo.txt
+-'  1  0  C:\Windows\System32\c\dev\
+-'  1  0  C:\Dev\bolo.txt
+-'  2  3  C:\Dev\olo.txt
+-'  1  0  C:\Windows\System32\c\dev\
+-'  32  0  ~\README.rdoc
+-'  1  0  ~\README.rdoc
+-'  1  0  C:\Dev\bolo.txt
+-'  2  3  C:\Dev\olo.txt
+-'  1  0  C:\Windows\System32\c\dev\
+-'  1  0  C:\Dev\bolo.txt
+-'  2  3  C:\Dev\olo.txt
+-'  1  0  C:\Windows\System32\c\dev\
+-'  32  0  ~\README.rdoc
+-'  1  0  ~\README.rdoc
+-'  1  0  C:\Dev\bolo.txt
+-'  2  3  C:\Dev\olo.txt
+-'  1  0  C:\Windows\System32\c\dev\
+-'  1  0  C:\Dev\bolo.txt
+-'  2  3  C:\Dev\olo.txt
+-'  1  0  C:\Windows\System32\c\dev\
+-'  32  0  ~\README.rdoc
+-'  1  0  ~\README.rdoc
+-'  1  0  C:\Dev\bolo.txt
+-'  2  3  C:\Dev\olo.txt
+-'  1  0  C:\Windows\System32\c\dev\
+-'  1  0  C:\Dev\bolo.txt
+-'  2  3  C:\Dev\olo.txt
+-'  1  0  C:\Windows\System32\c\dev\
+-'  32  0  ~\README.rdoc
+-'  1  0  ~\README.rdoc
+-'  1  0  C:\Dev\bolo.txt
+-'  2  3  C:\Dev\olo.txt
+-'  1  0  C:\Windows\System32\c\dev\
+-'  1  0  C:\Dev\bolo.txt
+-'  2  3  C:\Dev\olo.txt
+-'  1  0  C:\Windows\System32\c\dev\
+-'  32  0  ~\README.rdoc
+-'  1  0  ~\README.rdoc
+-'  1  0  C:\Dev\bolo.txt
+-'  2  3  C:\Dev\olo.txt
+-'  1  0  C:\Windows\System32\c\dev\
+-'  1  0  C:\Dev\bolo.txt
+-'  2  3  C:\Dev\olo.txt
+-'  1  0  C:\Windows\System32\c\dev\
+-'  32  0  ~\README.rdoc
+-'  1  0  ~\README.rdoc
 
 # History of marks within files (newest to oldest):
 
+> ~\vimfiles\plugin\syntastic.vim
+	"	1	0
+
+> ~\vimfiles\plugin\makegreen.vim
+	"	1	0
+
+> ~\vimfiles\pluginold\syntastic.vim
+	"	89	11
+
 > ~\_vimrc
-	"	5	18
-	.	5	18
+	"	250	8
+	^	262	33
+	.	262	32
 	+	6	0
 	+	5	18
+	+	250	16
+	+	256	36
+	+	257	36
+	+	260	32
+	+	261	32
+	+	262	32
+
+> ~\vimfiles\readme.txt
+	"	1	0
+
+> C:\Users\maya\Downloads\obsidian.vim
+	"	1	0
+
+> ~\README.rdoc
+	"	32	0
+
+> C:\Dev\olo.txt
+	"	2	3
+	^	2	4
+	.	2	3
+	+	2	3
+
+> C:\Dev\bolo.txt
+	"	1	0
+	^	1	4
+	.	1	3
+	+	1	3

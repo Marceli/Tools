@@ -2,8 +2,7 @@ set nocompatible
 source $VIMRUNTIME/vimrc_example.vim
 source $VIMRUNTIME/mswin.vim
 behave mswin
-set gfn=Consolas:h22:cANSI
-echo 'dksafjjjjjjjjjjjjjkskkkkkkkkkkkkkkkkkkkk'
+set gfn=Consolas:h12:cANSI
 set diffexpr=MyDiff()
 function MyDiff()
   let opt = '-a --binary '
