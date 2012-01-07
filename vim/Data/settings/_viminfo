@@ -46,18 +46,19 @@
 	nsi
 
 # File marks:
-'0  1  0  C:\Dev\Tools\gVim\gVimPortable.ini
-'1  19  19  ~\_vimrc
-'2  55  23  ~\_vimrc
-'3  22  0  C:\Users\maya\Downloads\css Zen Garden  The Beauty in CSS Design.htm
-'4  1  0  C:\Users\maya\Downloads\css Zen Garden  The Beauty in CSS Design.htm
-'5  1  0  C:\Users\maya\Downloads\note.xml
-'6  1  0  ~\vimfiles\plugin\syntastic.vim
-'7  1  0  ~\vimfiles\plugin\makegreen.vim
-'8  89  11  ~\vimfiles\pluginold\syntastic.vim
-'9  248  27  ~\_vimrc
+'0  1  0  C:\Dev\Tools\gVim\vim.ini
+'1  1  0  C:\Dev\Tools\gVim\gVimPortable.ini
+'2  19  19  ~\_vimrc
+'3  55  23  ~\_vimrc
+'4  22  0  C:\Users\maya\Downloads\css Zen Garden  The Beauty in CSS Design.htm
+'5  1  0  C:\Users\maya\Downloads\css Zen Garden  The Beauty in CSS Design.htm
+'6  1  0  C:\Users\maya\Downloads\note.xml
+'7  1  0  ~\vimfiles\plugin\syntastic.vim
+'8  1  0  ~\vimfiles\plugin\makegreen.vim
+'9  89  11  ~\vimfiles\pluginold\syntastic.vim
 
 # Jumplist (newest first):
+-'  1  0  C:\Dev\Tools\gVim\vim.ini
 -'  1  0  C:\Dev\Tools\gVim\gVimPortable.ini
 -'  19  19  ~\_vimrc
 -'  55  23  ~\_vimrc
@@ -155,10 +156,11 @@
 -'  221  0  ~\_vimrc
 -'  218  0  ~\_vimrc
 -'  217  0  ~\_vimrc
--'  207  0  ~\_vimrc
--'  206  0  ~\_vimrc
 
 # History of marks within files (newest to oldest):
+
+> C:\Dev\Tools\gVim\vim.ini
+	"	1	0
 
 > C:\Dev\Tools\gVim\gVimPortable.ini
 	"	1	0
