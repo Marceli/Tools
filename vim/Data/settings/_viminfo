@@ -40,7 +40,9 @@
 # Input Line History (newest to oldest):
 
 # Registers:
-""1	LINE	0
+"0	LINE	0
+	[remote "origin"]
+"1	LINE	0
 	*.ctl
 	*.vsp
 	_ReSharper.MyStore
@@ -57,22 +59,25 @@
 	
 "2	LINE	0
 	echo 'dksafjjjjjjjjjjjjjkskkkkkkkkkkkkkkkkkkkk'
-"-	CHAR	0
-	nsi
+""-	CHAR	0
+	origin
 
 # File marks:
-'0  1  0  ~\vimfiles\plugin\syntastic.vim
-'1  1  0  ~\vimfiles\pluginold\rails.vim
-'2  1  0  ~\vimfiles\pluginold\taglist.vim
-'3  1  13  C:\Dev\Tools\.gitignore
-'4  1  0  C:\Users\Marcel\AppData\Local\Temp\x2TMP_00000002_embrace.nfo
-'5  1  0  C:\Users\Marcel\AppData\Local\Temp\x2TMP_00000001_file_id.diz
-'6  2  35  C:\Dev\Tools\.git\Resharper.txt
-'7  1  0  C:\Dev\Tools\gVim\vim.ini
-'8  1  0  C:\Dev\Tools\gVim\gVimPortable.ini
-'9  19  19  ~\_vimrc
+'0  1  0  C:\Dev\bolo.txt~
+'1  11  16  C:\Dev\Tools\.git\config
+'2  1  0  C:\Dev\Tools\.git\config
+'3  1  0  ~\vimfiles\plugin\syntastic.vim
+'4  1  0  ~\vimfiles\pluginold\rails.vim
+'5  1  0  ~\vimfiles\pluginold\taglist.vim
+'6  1  13  C:\Dev\Tools\.gitignore
+'7  1  0  C:\Users\Marcel\AppData\Local\Temp\x2TMP_00000002_embrace.nfo
+'8  1  0  C:\Users\Marcel\AppData\Local\Temp\x2TMP_00000001_file_id.diz
+'9  2  35  C:\Dev\Tools\.git\Resharper.txt
 
 # Jumplist (newest first):
+-'  1  0  C:\Dev\bolo.txt~
+-'  11  16  C:\Dev\Tools\.git\config
+-'  1  0  C:\Dev\Tools\.git\config
 -'  1  0  ~\vimfiles\plugin\syntastic.vim
 -'  1  0  ~\vimfiles\pluginold\rails.vim
 -'  1  0  ~\vimfiles\pluginold\taglist.vim
@@ -168,10 +173,18 @@
 -'  18  0  ~\_vimrc
 -'  17  0  ~\_vimrc
 -'  15  0  ~\_vimrc
--'  14  0  ~\_vimrc
--'  12  0  ~\_vimrc
 
 # History of marks within files (newest to oldest):
+
+> C:\Dev\bolo.txt~
+	"	1	0
+
+> C:\Dev\Tools\.git\config
+	"	11	16
+	^	11	17
+	.	11	16
+	+	9	14
+	+	11	16
 
 > ~\vimfiles\plugin\syntastic.vim
 	"	1	0
