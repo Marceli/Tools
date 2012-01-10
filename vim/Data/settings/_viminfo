@@ -8,9 +8,10 @@
 # hlsearch on (H) or off (h):
 ~h
 # Last Search Pattern:
-~MSle0~/font
+~MSle0~/success
 
 # Command Line History (newest to oldest):
+:!w
 :w!
 :tree
 :nerdtree
@@ -25,6 +26,8 @@
 :e c/dev/
 
 # Search String History (newest to oldest):
+?/success
+?/netamount
 ?/font
 ?/set 
 ?/gfn
@@ -40,7 +43,59 @@
 # Input Line History (newest to oldest):
 
 # Registers:
-""1	LINE	0
+"0	LINE	0
+	[aa-start-vs]
+	Filename="cmd"
+	Path="D:\AFTWebApps"
+	Params="/k ani.bat startvs"
+	Notes=""
+	GUID={9965E3E3-B51B-4FDE-9A62-BFAC41D49A2A}
+	StartMode=5
+	UseRunAs=0
+	[addmail]
+	273
+<Filename="http://sp3/sites/AccessAllstate/Documents/Forms/AllItems.aspx?RootFolder=http%3a%2f%2fsp3%2fsites%2fAccessAllstate%2fDocuments%2fService%20Center%20Desktop%2fEnhancements%2fSCR%2037839%20Add%20New%20Mail%20tab%20to%20SCD&FolderCTID=0x012000C83993D4630C204B978"
+	Path=""
+	Params=""
+	Notes=""
+	GUID={2F688180-136D-4E8E-A7CE-36CDE6BD8452}
+	StartMode=5
+	UseRunAs=0
+	[aft]
+	Filename="cmd.exe"
+	Path="D:\AFTWebApps"
+	Params=""
+	Notes=""
+	GUID={CBAD2AFE-7774-4402-8441-2E1EECBF9BD0}
+	StartMode=5
+	UseRunAs=0
+	[amazon]
+	Filename="http://www.amazon.com/exec/obidos/redirect-home/baydensystems"
+	Path=""
+	Params=""
+	Notes="Support Bayden Systems by shopping at Amazon"
+	GUID={38DB0E2A-7727-46C9-8DA3-331E0AD2801F}
+	StartMode=5
+	UseRunAs=0
+	[aolenhancements]
+	Filename="cmd"
+	Path="d:"
+	Params=" /k cd D:\AFT\AccessAllstate\Source\Feature-AOL-Enhancements"
+	Notes=""
+	GUID={09380645-7157-48B8-9108-28ED90423FB9}
+	StartMode=5
+	UseRunAs=0
+	[babel]
+	Filename="http://babelfish.altavista.com"
+	Path=""
+	Params=""
+	Notes="Online translations via babelfish"
+	GUID=
+	StartMode=5
+	UseRunAs=0
+	[blog]
+	Filename="gvim"
+"1	LINE	0
 	*.ctl
 	*.vsp
 	_ReSharper.MyStore
@@ -58,21 +113,32 @@
 "2	LINE	0
 	echo 'dksafjjjjjjjjjjjjjkskkkkkkkkkkkkkkkkkkkk'
 "-	CHAR	0
-	nsi
+	~/.vim-tmp,~/tmp,/var/tmp,
 
 # File marks:
-'0  1  0  ~\vimfiles\plugin\syntastic.vim
-'1  1  0  ~\vimfiles\pluginold\rails.vim
-'2  1  0  ~\vimfiles\pluginold\taglist.vim
-'3  1  13  C:\Dev\Tools\.gitignore
-'4  1  0  C:\Users\Marcel\AppData\Local\Temp\x2TMP_00000002_embrace.nfo
-'5  1  0  C:\Users\Marcel\AppData\Local\Temp\x2TMP_00000001_file_id.diz
-'6  2  35  C:\Dev\Tools\.git\Resharper.txt
-'7  1  0  C:\Dev\Tools\gVim\vim.ini
-'8  1  0  C:\Dev\Tools\gVim\gVimPortable.ini
-'9  19  19  ~\_vimrc
+'0  1  0  C:\Dev\Tools\SlickRun\SlickRun.local
+'1  20  0  C:\Dev\Tools\SlickRun\SlickRun.srl
+'2  1583  0  \\Y0185-app0098-s\Logs2\SEEC\seec.log
+'3  12  0  ~\_vimrc
+'4  21  14  ~\_vimrc
+'5  1  0  C:\Dev\Tools\.git\config
+'6  1  0  ~\vimfiles\plugin\syntastic.vim
+'7  1  0  ~\vimfiles\pluginold\rails.vim
+'8  1  0  ~\vimfiles\pluginold\taglist.vim
+'9  1  13  C:\Dev\Tools\.gitignore
 
 # Jumplist (newest first):
+-'  1  0  C:\Dev\Tools\SlickRun\SlickRun.local
+-'  20  8  C:\Dev\Tools\SlickRun\SlickRun.local
+-'  20  0  C:\Dev\Tools\SlickRun\SlickRun.srl
+-'  1  0  C:\Dev\Tools\SlickRun\SlickRun.srl
+-'  1583  0  \\Y0185-app0098-s\Logs2\SEEC\seec.log
+-'  1  0  \\Y0185-app0098-s\Logs2\SEEC\seec.log
+-'  12  0  ~\_vimrc
+-'  21  14  ~\_vimrc
+-'  22  0  ~\_vimrc
+-'  20  19  ~\_vimrc
+-'  1  0  C:\Dev\Tools\.git\config
 -'  1  0  ~\vimfiles\plugin\syntastic.vim
 -'  1  0  ~\vimfiles\pluginold\rails.vim
 -'  1  0  ~\vimfiles\pluginold\taglist.vim
@@ -83,56 +149,55 @@
 -'  1  11  C:\Dev\Tools\.git\Resharper.txt
 -'  1  0  C:\Dev\Tools\gVim\vim.ini
 -'  1  0  C:\Dev\Tools\gVim\gVimPortable.ini
--'  19  19  ~\_vimrc
--'  55  23  ~\_vimrc
+-'  56  23  ~\_vimrc
 -'  22  0  C:\Users\maya\Downloads\css Zen Garden  The Beauty in CSS Design.htm
 -'  136  2  C:\Users\maya\Downloads\css Zen Garden  The Beauty in CSS Design.htm
 -'  1  0  C:\Users\maya\Downloads\css Zen Garden  The Beauty in CSS Design.htm
--'  36  0  ~\_vimrc
--'  22  0  ~\_vimrc
+-'  37  0  ~\_vimrc
+-'  23  0  ~\_vimrc
+-'  19  0  ~\_vimrc
 -'  18  0  ~\_vimrc
--'  17  0  ~\_vimrc
+-'  16  0  ~\_vimrc
 -'  15  0  ~\_vimrc
--'  14  0  ~\_vimrc
--'  12  0  ~\_vimrc
+-'  13  0  ~\_vimrc
 -'  11  0  ~\_vimrc
 -'  9  0  ~\_vimrc
 -'  6  0  ~\_vimrc
 -'  3  0  ~\_vimrc
--'  224  0  ~\_vimrc
--'  221  0  ~\_vimrc
+-'  225  0  ~\_vimrc
+-'  222  0  ~\_vimrc
+-'  219  0  ~\_vimrc
 -'  218  0  ~\_vimrc
--'  217  0  ~\_vimrc
+-'  208  0  ~\_vimrc
 -'  207  0  ~\_vimrc
 -'  206  0  ~\_vimrc
--'  205  0  ~\_vimrc
--'  202  0  ~\_vimrc
+-'  203  0  ~\_vimrc
+-'  200  0  ~\_vimrc
 -'  199  0  ~\_vimrc
 -'  198  0  ~\_vimrc
--'  197  0  ~\_vimrc
+-'  196  0  ~\_vimrc
 -'  195  0  ~\_vimrc
 -'  194  0  ~\_vimrc
--'  193  0  ~\_vimrc
+-'  191  0  ~\_vimrc
 -'  190  0  ~\_vimrc
 -'  189  0  ~\_vimrc
 -'  188  0  ~\_vimrc
--'  187  0  ~\_vimrc
--'  109  26  ~\_vimrc
--'  98  8  ~\_vimrc
+-'  110  26  ~\_vimrc
+-'  99  8  ~\_vimrc
 -'  1  0  C:\Users\maya\Downloads\note.xml
 -'  1  0  ~\vimfiles\plugin\makegreen.vim
 -'  89  11  ~\vimfiles\pluginold\syntastic.vim
 -'  1  0  ~\vimfiles\pluginold\syntastic.vim
--'  248  27  ~\_vimrc
--'  263  0  ~\_vimrc
--'  256  44  ~\_vimrc
--'  251  8  ~\_vimrc
+-'  249  27  ~\_vimrc
+-'  264  0  ~\_vimrc
+-'  257  44  ~\_vimrc
+-'  252  8  ~\_vimrc
+-'  263  32  ~\_vimrc
 -'  262  32  ~\_vimrc
--'  261  32  ~\_vimrc
--'  258  36  ~\_vimrc
--'  252  7  ~\_vimrc
+-'  259  36  ~\_vimrc
+-'  253  7  ~\_vimrc
 -'  1  0  ~\_vimrc
--'  124  4  ~\_vimrc
+-'  125  4  ~\_vimrc
 -'  5  18  ~\_vimrc
 -'  1  0  C:\Users\maya\Downloads\obsidian.vim
 -'  32  0  ~\README.rdoc
@@ -158,20 +223,42 @@
 -'  22  0  C:\Users\maya\Downloads\css Zen Garden  The Beauty in CSS Design.htm
 -'  136  2  C:\Users\maya\Downloads\css Zen Garden  The Beauty in CSS Design.htm
 -'  1  0  C:\Users\maya\Downloads\css Zen Garden  The Beauty in CSS Design.htm
--'  19  19  ~\_vimrc
--'  55  23  ~\_vimrc
--'  22  0  C:\Users\maya\Downloads\css Zen Garden  The Beauty in CSS Design.htm
--'  136  2  C:\Users\maya\Downloads\css Zen Garden  The Beauty in CSS Design.htm
--'  1  0  C:\Users\maya\Downloads\css Zen Garden  The Beauty in CSS Design.htm
--'  36  0  ~\_vimrc
--'  22  0  ~\_vimrc
--'  18  0  ~\_vimrc
--'  17  0  ~\_vimrc
--'  15  0  ~\_vimrc
--'  14  0  ~\_vimrc
--'  12  0  ~\_vimrc
 
 # History of marks within files (newest to oldest):
+
+> C:\Dev\Tools\SlickRun\SlickRun.local
+	"	1	0
+
+> C:\Dev\Tools\SlickRun\SlickRun.srl
+	"	20	0
+	.	163	0
+	+	162	0
+	+	163	0
+
+> \\Y0185-app0098-s\Logs2\SEEC\seec.log
+	"	1583	0
+
+> ~\_vimrc
+	"	12	0
+	^	12	0
+	.	12	0
+	+	6	0
+	+	5	18
+	+	252	16
+	+	258	36
+	+	259	36
+	+	262	32
+	+	263	32
+	+	264	32
+	+	20	19
+	+	22	0
+	+	22	0
+	+	22	0
+	+	21	14
+	+	12	0
+
+> C:\Dev\Tools\.git\config
+	"	1	0
 
 > ~\vimfiles\plugin\syntastic.vim
 	"	1	0
@@ -207,20 +294,6 @@
 
 > C:\Dev\Tools\gVim\gVimPortable.ini
 	"	1	0
-
-> ~\_vimrc
-	"	19	19
-	^	19	26
-	.	19	19
-	+	6	0
-	+	5	18
-	+	251	16
-	+	257	36
-	+	258	36
-	+	261	32
-	+	262	32
-	+	263	32
-	+	19	19
 
 > C:\Users\maya\Downloads\css Zen Garden  The Beauty in CSS Design.htm
 	"	22	0
