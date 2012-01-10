@@ -1,0 +1,162 @@
+[AMAZON,WWW.AMAZON.COM]
+Filename="http://www.amazon.com/exec/obidos/redirect-home/baydensystems"
+Path=""
+Params=""
+Notes="Support Bayden Systems by shopping at Amazon"
+GUID={38DB0E2A-7727-46C9-8DA3-331E0AD2801F}
+StartMode=5
+[BABEL]
+Filename="http://babelfish.altavista.com"
+Path=""
+Params=""
+Notes="Online translations via babelfish"
+GUID=
+StartMode=5
+[BOOK]
+Filename="http://www.amazon.com/gp/search?tag=baydensystems&index=books&field-keywords=$W$"
+Path=""
+Params=""
+Notes="Find a book at Amazon.com"
+GUID={04CCB76B-9963-4DF7-A375-3723F805F602}
+StartMode=5
+[DEFINE,?]
+Filename="http://www.m-w.com/cgi-bin/dictionary?$W$"
+Path=""
+Params=""
+Notes="Merriam-Webster online dictionary"
+GUID=
+StartMode=5
+[DOS]
+Filename="%comspec%"
+Path=""
+Params=""
+Notes="Start a command prompt"
+GUID={04CCB76B-9963-4DF7-A375-3723FFDFF602}
+StartMode=5
+[DVD]
+Filename="http://www.amazon.com/gp/search?tag=baydensystems&index=dvd&field-keywords=$W$"
+Path=""
+Params=""
+Notes="Search for DVD at Amazon"
+GUID={06FD0D0F-6FAC-4DE9-943C-F78505AA5C11}
+StartMode=5
+UseRunAs=0
+[GOOGLE]
+Filename="http://www.google.com/search?hl=en&q=$W$"
+Path=""
+Params=""
+Notes="Search two billion web pages"
+GUID={C7D59C80-8323-4DA9-B80A-641150D67ACB}
+StartMode=5
+[GOTO,_A]
+Filename="http://www.google.com/search?hl=en&btnI=I%27m+Feeling+Lucky&q=$W$"
+Path=""
+Params=""
+Notes=""Go to" web search from Google"
+GUID=
+StartMode=5
+[HIBERNATE]
+Filename="@HIBERNATE@"
+Path=""
+Params=""
+Notes="Windows Hibernate Command"
+GUID={5CD45EA2-DD0B-4BB3-9C1E-0EDEFAF198AA}
+StartMode=5
+[LOCK]
+Filename="@SCREENSAVE@"
+Path=""
+Params=""
+Notes="Show the WindowsXP Screensaver"
+GUID={BB932194-0D67-4CF7-BFCF-079ED449281E}
+StartMode=5
+[MAIL]
+Filename="msimn.exe"
+Path=""
+Params=""
+Notes="Microsoft Outlook Express e-mail reader"
+GUID={5E5A2DF8-DFBB-44E4-B0F5-3CEF777C40CF}
+StartMode=5
+[MORNING]
+Filename="@MULTI@"
+Path=""
+Params="iexplore www.gotapex.com/deals.php@iexplore news.google.com@msimn"
+Notes="Launch some morning webpages and apps"
+GUID={BAFF0D1B-C4BC-41C5-A140-88474910404A}
+StartMode=5
+[MOVIE]
+Filename="http://us.imdb.com/Find?$W$"
+Path=""
+Params=""
+Notes="Find a movie at IMDB"
+GUID={D62B6C61-4371-48DE-BE6E-250C55258764}
+StartMode=5
+[MSNBC]
+Filename="http://www.msnbc.com/"
+Path=""
+Params=""
+Notes="MSNBC news"
+GUID={655648D1-0547-47D7-ADF5-554DED33DE9B}
+StartMode=5
+[MYYAHOO]
+Filename="http://my.yahoo.com"
+Path=""
+Params=""
+Notes="Personalized news and information from Yahoo!"
+GUID=
+StartMode=5
+[PAINT]
+Filename="pbrush.exe"
+Path=""
+Params=""
+Notes="Microsoft Paint image editor"
+GUID={60E47C21-5E5D-44DA-8813-0F943B125C14}
+StartMode=5
+[PLAYER]
+Filename="wmplayer.exe"
+Path=""
+Params=""
+Notes="Windows Media Player"
+GUID={BB30ACB1-D4D7-4D96-B032-C0DD02922640}
+StartMode=5
+[SHUTDOWN]
+Filename="@SHUTDOWN@"
+Path=""
+Params=""
+Notes="Trigger the Windows Shutdown dialog"
+GUID=
+StartMode=5
+[SLEEP,STANDBY]
+Filename="@STANDBY@"
+Path=""
+Params=""
+Notes="WindowsXP Standby Command"
+GUID={5CD45EA2-EA0B-4BB7-9C1E-0EDEFAF198AA}
+StartMode=5
+[SOLITAIRE]
+Filename="sol.exe"
+Path=""
+Params=""
+Notes="Microsoft Solitaire time-evaporation tool"
+GUID={2686E429-D8E0-44AA-82D6-B47BB4DA12AF}
+StartMode=5
+[STOCK,QUOTE]
+Filename="http://finance.yahoo.com/q?s=$W$"
+Path=""
+Params=""
+Notes="Stock Ticker Quote"
+GUID={6E426829-E0D8-44AA-82D6-B47A12BB4DAF}
+StartMode=5
+[WEATHER]
+Filename="http://www.weather.com/weather/local/$W$?whatprefs="
+Path=""
+Params=""
+Notes="Type your ZIP Code to get local weather"
+GUID=
+StartMode=5
+[WIKIPEDIA,ENCYC]
+Filename="http://en.wikipedia.org/wiki/Special:Search?search=$W$&go=Go"
+Path=""
+Params=""
+Notes="Search Wikipedia Online Encyclopedia"
+GUID={7A4FFA2F-1DC7-4580-B235-70A21AC1C586}
+StartMode=5
